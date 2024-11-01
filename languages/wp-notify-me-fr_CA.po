@@ -1,0 +1,107 @@
+# WP Notify Me French Translate
+# Copyright (C) 2019 Miguel Clark
+# This file is distributed under the same license as the Wordpress package.
+# Miguel Clark <contacto@miguelclark.com.mx>, 2019.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: wp-notify-me 1.0\n"
+"POT-Creation-Date: 2019-03-17 19:42-0700\n"
+"PO-Revision-Date: 2019-03-17 22:47-0700\n"
+"Last-Translator: Miguel Clark <contacto@miguelclark.com.mx>\n"
+"Language-Team: Español <contacto@miguelclark.com.mx>\n"
+"Language: es_MX\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Poedit 2.2.1\n"
+
+#: includes/settings.php:39
+msgid "Notify Me Settings"
+msgstr "Réglages généraux - Notify Me"
+
+#: includes/settings.php:47
+msgid "Email Settings"
+msgstr "Paramètres de messagerie"
+
+#: includes/settings.php:53
+msgid "Emails To"
+msgstr "Emails à"
+
+#: includes/settings.php:58
+msgid "Title"
+msgstr "Titre"
+
+#: includes/settings.php:41
+msgid "You can use the meta-tags: {post-title}, {post-author}, {post-author-email}, {post-status}, {post-permalink} in the Title or Message fields."
+msgstr "Vous pouvez utiliser les méta-tags: {post-title}, {post-author}, {post-author-email}, {post-status}, {post-permalien} dans les champs Titre ou Message."
+
+#: includes/settings.php:65
+msgid "Message"
+msgstr "Message"
+
+#: includes/settings.php:75
+msgid "Metadata"
+msgstr "Métadonnées"
+
+#: includes/settings.php:77
+msgid "Include Post Metadata"
+msgstr "Inclure les métadonnées d'article"
+
+#: includes/settings.php:82
+msgid "Permalink"
+msgstr "Lien permanent"
+
+#: includes/settings.php:84
+msgid "Include Post Permalink"
+msgstr "Inclure Lien permanent"
+
+#: includes/settings.php:89
+msgid "Actions"
+msgstr "Actes"
+
+#: includes/settings.php:94
+msgid "Published Post"
+msgstr "Publié un article"
+
+#: includes/settings.php:101
+msgid "Update Post"
+msgstr "Mettre à jour un article"
+
+#: includes/settings.php:109
+msgid "Schedule Post"
+msgstr "Poste programmé"
+
+#: includes/settings.php:116
+msgid "Draft Post"
+msgstr "Brouillon"
+
+#: includes/settings.php:123
+msgid "Delete Post"
+msgstr "Supprimer l'article"
+
+#: includes/settings.php:130
+msgid "Private Post"
+msgstr "Article privé"
+
+#: includes/settings.php:137
+msgid "Pending Review"
+msgstr "En attendant l'examen"
+
+#: includes/funtiones.php:25
+msgid "Title"
+msgstr "Titre"
+
+#: includes/funtiones.php:26
+msgid "Status"
+msgstr "Statut"
+
+#: includes/funtiones.php:29
+msgid "Author"
+msgstr "Auteur/Auteure"
+
+#: includes/funtiones.php:44
+msgid "View Post"
+msgstr "Voir l'article"
+
